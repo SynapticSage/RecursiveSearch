@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="015a26ee-527c-4b79-ba2c-953bcaffb7c3" name="Default" comment="" />
+    <ignored path="RecursiveInternet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RecursiveInternet$search.coverage" NAME="search Coverage Results" MODIFIED="1449358224919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RecursiveInternet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.084626235">
+              <caret line="4" column="84" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1793" column="0" selection-start-line="1793" selection-start-column="0" selection-end-line="1793" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BeautifulSoup.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Python/2.7/site-packages/BeautifulSoup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="834" column="15" selection-start-line="834" selection-start-column="8" selection-end-line="834" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/596071422/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4629" column="8" selection-start-line="4629" selection-start-column="8" selection-end-line="4629" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/search.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="923" />
+    <option name="y" value="23" />
+    <option name="width" value="1070" />
+    <option name="height" value="1173" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecursiveInternet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.2 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecursiveInternet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="RecursiveInternet">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="pyconsole" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.search">
+    <configuration default="false" name="search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RecursiveInternet" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.search" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing" SSL_PROTOCOLS="sslv3">
+    <configuration />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015a26ee-527c-4b79-ba2c-953bcaffb7c3" name="Default" comment="" />
+      <created>1448781032704</created>
+      <option name="number" value="Default" />
+      <updated>1448781032704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="923" y="23" width="1070" height="1173" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20795892" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923368" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35099337" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3036897" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2172524" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923368" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.50328517" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="-2" y="23" width="951" height="1173" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/search.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i.extract()" language="Python" />
+        <watch expression="linkTag" language="Python" />
+        <watch expression="hitList" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://Python/#/Library/Python/2.7/site-packages/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Library/Python/2.7/site-packages/BeautifulSoup.py</OriginalElement>
+          <nodes>
+            <node x="1880.3707897793265" y="674.0">BeautifulSoup.RobustHTMLParser</node>
+            <node x="1935.4791666666665" y="168.0">_abcoll.Callable</node>
+            <node x="1763.4791666666665" y="168.0">_abcoll.Container</node>
+            <node x="2098.4791666666665" y="168.0">_abcoll.Sequence</node>
+            <node x="283.0" y="168.0">BeautifulSoup.PageElement</node>
+            <node x="360.0" y="595.0">BeautifulSoup.Declaration</node>
+            <node x="2298.6755952380954" y="437.0">sgmllib.SGMLParser</node>
+            <node x="1396.3958333333335" y="168.0">_abcoll.Iterator</node>
+            <node x="279.25" y="516.0">BeautifulSoup.NavigableString</node>
+            <node x="0.0" y="827.0">BeautifulSoup.UnicodeDammit</node>
+            <node x="1048.8707897793265" y="674.0">BeautifulSoup.SimplifyingSOAPParser</node>
+            <node x="2054.2041231126595" y="516.0">BeautifulSoup.ResultSet</node>
+            <node x="861.0" y="516.0">Exception</node>
+            <node x="1973.3648373983742" y="437.0">list</node>
+            <node x="1073.3707897793265" y="595.0">BeautifulSoup.BeautifulSOAP</node>
+            <node x="1311.8707897793265" y="674.0">BeautifulSoup.ICantBelieveItsBeautifulSoup</node>
+            <node x="1673.3707897793265" y="674.0">BeautifulSoup.MinimalSoup</node>
+            <node x="190.0" y="595.0">BeautifulSoup.CData</node>
+            <node x="1563.6458333333335" y="516.0">BeautifulSoup.BeautifulStoneSoup</node>
+            <node x="1606.3707897793265" y="753.0">BeautifulSoup.RobustInsanelyWackAssHTMLParser</node>
+            <node x="1850.3958333333335" y="595.0">BeautifulSoup.RobustXMLParser</node>
+            <node x="251.0" y="827.0">BeautifulSoup.SoupStrainer</node>
+            <node x="629.6207897793264" y="437.0">BaseException</node>
+            <node x="560.0" y="595.0">BeautifulSoup.ProcessingInstruction</node>
+            <node x="815.0" y="595.0">BeautifulSoup.StopParsing</node>
+            <node x="831.176538908246" y="0.0">_abcoll.Hashable</node>
+            <node x="1555.3958333333335" y="168.0">_abcoll.Sized</node>
+            <node x="523.3125" y="168.0">basestring</node>
+            <node x="1638.3958333333335" y="595.0">BeautifulSoup.BeautifulSoup</node>
+            <node x="1550.8958333333335" y="437.0">BeautifulSoup.Tag</node>
+            <node x="2284.6755952380954" y="168.0">markupbase.ParserBase</node>
+            <node x="1022.3368902439024" y="437.0">unicode</node>
+            <node x="1311.3707897793265" y="753.0">BeautifulSoup.RobustWackAssHTMLParser</node>
+            <node x="871.676538908246" y="79.0">object</node>
+            <node x="0.0" y="595.0">BeautifulSoup.Comment</node>
+            <node x="888.375" y="168.0">_abcoll.Iterable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="BeautifulSoup.BeautifulSoup" target="BeautifulSoup.BeautifulStoneSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1734.3958333333335" y="575.0" />
+              <point x="1675.1458333333335" y="575.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.SimplifyingSOAPParser" target="BeautifulSoup.BeautifulSOAP">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.ResultSet" target="list">
+              <point x="0.0" y="-14.5" />
+              <point x="2137.7041231126595" y="486.0" />
+              <point x="1998.3648373983742" y="486.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="object" target="_abcoll.Hashable">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Callable">
+              <point x="39.14285714285711" y="-14.5" />
+              <point x="1658.5386904761904" y="377.0" />
+              <point x="2006.9791666666665" y="377.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Exception" target="BaseException">
+              <point x="0.0" y="-14.5" />
+              <point x="906.0" y="486.0" />
+              <point x="688.1207897793264" y="486.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Iterable">
+              <point x="-39.14285714285711" y="-14.5" />
+              <point x="1580.2529761904761" y="267.0" />
+              <point x="976.5" y="267.0" />
+              <point x="17.625" y="14.5" />
+            </edge>
+            <edge source="list" target="object">
+              <point x="14.28571428571422" y="-14.5" />
+              <point x="2012.6505516840884" y="407.0" />
+              <point x="2260.9791666666665" y="407.0" />
+              <point x="2260.9791666666665" y="148.0" />
+              <point x="932.926538908246" y="148.0" />
+              <point x="26.25" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.MinimalSoup" target="BeautifulSoup.BeautifulSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1766.8707897793265" y="649.0" />
+              <point x="1734.3958333333335" y="649.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.ICantBelieveItsBeautifulSoup" target="BeautifulSoup.BeautifulSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1448.8707897793265" y="649.0" />
+              <point x="1670.3958333333335" y="649.0" />
+              <point x="-64.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Container">
+              <point x="19.57142857142867" y="-14.5" />
+              <point x="1638.967261904762" y="367.0" />
+              <point x="1839.4791666666665" y="367.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Sequence">
+              <point x="7.14285714285711" y="-14.5" />
+              <point x="2005.507694541231" y="397.0" />
+              <point x="2212.4791666666665" y="397.0" />
+              <point x="38.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.StopParsing" target="Exception">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="unicode" target="_abcoll.Hashable">
+              <point x="-32.91666666666674" y="-14.5" />
+              <point x="1028.9202235772357" y="307.0" />
+              <point x="272.5" y="307.0" />
+              <point x="272.5" y="54.0" />
+              <point x="856.3432055749126" y="54.0" />
+              <point x="-50.33333333333337" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Sized">
+              <point x="-7.14285714285711" y="-14.5" />
+              <point x="1991.2219802555169" y="227.0" />
+              <point x="1662.0625" y="227.0" />
+              <point x="42.66666666666674" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.RobustHTMLParser" target="BeautifulSoup.BeautifulSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1992.8707897793265" y="649.0" />
+              <point x="1798.3958333333335" y="649.0" />
+              <point x="64.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="BeautifulSoup.PageElement">
+              <point x="-58.71428571428578" y="-14.5" />
+              <point x="1560.6815476190477" y="277.0" />
+              <point x="424.75" y="277.0" />
+              <point x="47.25" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.RobustWackAssHTMLParser" target="BeautifulSoup.ICantBelieveItsBeautifulSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="basestring" target="object">
+              <point x="0.0" y="-14.5" />
+              <point x="570.3125" y="148.0" />
+              <point x="915.426538908246" y="148.0" />
+              <point x="8.75" y="14.5" />
+            </edge>
+            <edge source="sgmllib.SGMLParser" target="markupbase.ParserBase">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Hashable">
+              <point x="21.42857142857133" y="-14.5" />
+              <point x="2019.7934088269453" y="417.0" />
+              <point x="2274.1755952380954" y="417.0" />
+              <point x="2274.1755952380954" y="54.0" />
+              <point x="957.0098722415794" y="54.0" />
+              <point x="50.33333333333337" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Container">
+              <point x="0.0" y="-14.5" />
+              <point x="1998.3648373983742" y="217.0" />
+              <point x="1890.1458333333335" y="217.0" />
+              <point x="50.66666666666674" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.BeautifulSOAP" target="BeautifulSoup.BeautifulStoneSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1170.3707897793265" y="575.0" />
+              <point x="1600.8125" y="575.0" />
+              <point x="-74.33333333333326" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.BeautifulStoneSoup" target="sgmllib.SGMLParser">
+              <point x="55.75" y="-14.5" />
+              <point x="1730.8958333333335" y="496.0" />
+              <point x="2372.1755952380954" y="496.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.CData" target="BeautifulSoup.NavigableString">
+              <point x="0.0" y="-14.5" />
+              <point x="265.0" y="575.0" />
+              <point x="355.75" y="575.0" />
+              <point x="-25.5" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Declaration" target="BeautifulSoup.NavigableString">
+              <point x="0.0" y="-14.5" />
+              <point x="450.0" y="575.0" />
+              <point x="406.75" y="575.0" />
+              <point x="25.5" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.NavigableString" target="BeautifulSoup.PageElement">
+              <point x="-51.0" y="-14.5" />
+              <point x="330.25" y="496.0" />
+              <point x="327.97495644599303" y="496.0" />
+              <point x="327.97495644599303" y="417.0" />
+              <point x="330.25" y="417.0" />
+              <point x="-47.25" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Iterator">
+              <point x="-14.28571428571422" y="-14.5" />
+              <point x="1984.07912311266" y="237.0" />
+              <point x="1518.0208333333335" y="237.0" />
+              <point x="52.125" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.PageElement" target="object">
+              <point x="0.0" y="-14.5" />
+              <point x="377.5" y="138.0" />
+              <point x="897.926538908246" y="138.0" />
+              <point x="-8.75" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.ProcessingInstruction" target="BeautifulSoup.NavigableString">
+              <point x="0.0" y="-14.5" />
+              <point x="677.5" y="575.0" />
+              <point x="457.75" y="575.0" />
+              <point x="76.5" y="14.5" />
+            </edge>
+            <edge source="list" target="_abcoll.Iterable">
+              <point x="-21.42857142857133" y="-14.5" />
+              <point x="1976.9362659698027" y="247.0" />
+              <point x="1011.75" y="247.0" />
+              <point x="52.875" y="14.5" />
+            </edge>
+            <edge source="unicode" target="basestring">
+              <point x="-19.75" y="-14.5" />
+              <point x="1042.0868902439024" y="297.0" />
+              <point x="570.3125" y="297.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.NavigableString" target="unicode">
+              <point x="51.0" y="-14.5" />
+              <point x="432.25" y="496.0" />
+              <point x="1061.8368902439024" y="496.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Comment" target="BeautifulSoup.NavigableString">
+              <point x="0.0" y="-14.5" />
+              <point x="85.0" y="565.0" />
+              <point x="304.75" y="565.0" />
+              <point x="-76.5" y="14.5" />
+            </edge>
+            <edge source="unicode" target="_abcoll.Iterator">
+              <point x="6.5833333333332575" y="-14.5" />
+              <point x="1068.4202235772357" y="337.0" />
+              <point x="1448.5208333333335" y="337.0" />
+              <point x="-17.375" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Sized">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="unicode" target="_abcoll.Iterable">
+              <point x="-6.5833333333332575" y="-14.5" />
+              <point x="1055.2535569105692" y="287.0" />
+              <point x="941.25" y="287.0" />
+              <point x="-17.625" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Sequence">
+              <point x="58.71428571428578" y="-14.5" />
+              <point x="1678.1101190476193" y="387.0" />
+              <point x="2136.4791666666665" y="387.0" />
+              <point x="-38.0" y="14.5" />
+            </edge>
+            <edge source="BaseException" target="object">
+              <point x="-39.0" y="-14.5" />
+              <point x="649.1207897793264" y="407.0" />
+              <point x="261.5" y="407.0" />
+              <point x="261.5" y="128.0" />
+              <point x="880.426538908246" y="128.0" />
+              <point x="-26.25" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.RobustXMLParser" target="BeautifulSoup.BeautifulStoneSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="1958.3958333333335" y="575.0" />
+              <point x="1749.4791666666665" y="575.0" />
+              <point x="74.33333333333326" y="14.5" />
+            </edge>
+            <edge source="BaseException" target="_abcoll.Iterable">
+              <point x="0.0" y="-14.5" />
+              <point x="688.1207897793264" y="317.0" />
+              <point x="906.0" y="317.0" />
+              <point x="-52.875" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.Tag" target="_abcoll.Iterator">
+              <point x="-19.57142857142867" y="-14.5" />
+              <point x="1599.8244047619046" y="257.0" />
+              <point x="1483.2708333333335" y="257.0" />
+              <point x="17.375" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.RobustInsanelyWackAssHTMLParser" target="BeautifulSoup.MinimalSoup">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="BaseException" target="_abcoll.Iterator">
+              <point x="39.0" y="-14.5" />
+              <point x="727.1207897793264" y="327.0" />
+              <point x="1413.7708333333335" y="327.0" />
+              <point x="-52.125" y="14.5" />
+            </edge>
+            <edge source="BeautifulSoup.BeautifulStoneSoup" target="BeautifulSoup.Tag">
+              <point x="-55.75" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="unicode" target="_abcoll.Container">
+              <point x="32.91666666666674" y="-14.5" />
+              <point x="1094.7535569105692" y="357.0" />
+              <point x="1788.8125" y="357.0" />
+              <point x="-50.66666666666674" y="14.5" />
+            </edge>
+            <edge source="unicode" target="_abcoll.Sized">
+              <point x="19.75" y="-14.5" />
+              <point x="1081.5868902439024" y="347.0" />
+              <point x="1576.7291666666665" y="347.0" />
+              <point x="-42.66666666666674" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9635792292191908" x="239.0" y="35.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/BeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="834" column="15" selection-start-line="834" selection-start-column="8" selection-end-line="834" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm50/python_stubs/596071422/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4629" column="8" selection-start-line="4629" selection-start-column="8" selection-end-line="4629" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1793" column="0" selection-start-line="1793" selection-start-column="0" selection-end-line="1793" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084626235">
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
